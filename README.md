@@ -1,13 +1,13 @@
 <h1 align="center">Salve! Meu nome é Arthur Miguel</h1>
 <h3 align="center">Um desenvolvedor focado em informação, diversão e liberdade</h3>
 
-- 🌱 Atualmente estou estudando **Desenvolvimento de Sistemas, Game Design, Técnicas de Programação Avançada**
+- 🌱 Atualmente estou estudando **Desenvolvimento de Sistemas, Game Design e Técnicas de Programação Avançada**
 
-- 📝 De vez em quando escrevo no [https://in-senso.com.br/](https://in-senso.com.br/)
+- 📝 De vez em quando escrevo no [in-senso](https://in-senso.com.br/)
 
-- 📫 Contato **arthursmig@proton.me**
+- 📫 Entre em contato via **arthursmig@proton.me**
 
-- 📄 Conheça mais sobre minha experiência em [https://arthur-sm.github.io/](https://arthur-sm.github.io/)
+- 📄 Conheça mais sobre minha experiência em [meu portfólio](https://arthur-sm.github.io/)
 
 - ⚡ Curiosidade **Toco cajon e pandeiro :)**
 
