@@ -1,8 +1,6 @@
 <h1 align="center">Salve! Meu nome é Arthur Miguel</h1>
 <h3 align="center">Um desenvolvedor focado em informação, diversão e liberdade</h3>
 
-- 🔭 Atualmente trabalhando como [DBA Estagiário](https://databasers.com.br/)
-
 - 🌱 Atualmente estou estudando **Desenvolvimento de Sistemas, Game Design, Técnicas de Programação Avançada**
 
 - 📝 De vez em quando escrevo no [https://in-senso.com.br/](https://in-senso.com.br/)
