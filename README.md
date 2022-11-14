@@ -9,7 +9,7 @@
 
 - 📄 Conheça mais sobre minha experiência em [meu portfólio](https://arthur-sm.github.io/)
 
-- ⚡ Curiosidade **Toco cajon e pandeiro :)**
+- ⚡ Uma curiosidade? **Eu toco cajon e pandeiro também :)**
 
 <h3 align="left">Contato:</h3>
 <p align="left">
