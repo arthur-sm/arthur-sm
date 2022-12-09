@@ -1,7 +1,7 @@
 <h1 align="center">Salve! Meu nome é Arthur Miguel</h1>
 <h3 align="center">Um desenvolvedor focado em informação, diversão e liberdade</h3>
 
-- 🌱 Atualmente estou estudando **Desenvolvimento de Sistemas, Game Design e Técnicas de Programação Avançada**
+- 🌱 Atualmente estou estudando **Ciência de dados, desenvolvimento de sistemas e Bancos de Dados**
 
 - 📝 De vez em quando escrevo no [in-senso](https://in-senso.com.br/)
 
