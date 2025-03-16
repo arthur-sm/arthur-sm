@@ -11,8 +11,9 @@
 
 <h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arthur-s-mig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur-s-mig" height="30" width="40" /></a>
-<a rel="me" href="https://bolha.us/@arthursm" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="arthur-sm" height="30" width="40" /></a>
+<list>
+  Email: arthursmig@proton.me
+</list>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
