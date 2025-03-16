@@ -12,7 +12,7 @@
 <h3 align="left">Contato:</h3>
 <p align="left">
 <list>
-  Email: arthursmig@proton.me
+  <b>E-mail</b>: arthursmig@proton.me
 </list>
 </p>
 
